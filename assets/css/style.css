@@ -10,8 +10,8 @@
 --------------------------------------------------------------*/
 body {
   font-family: "Open Sans", sans-serif;
-  color: #eef0f1;
-  background-color: #181a1b;
+  color: #181a1b;
+  background-color: #fff;
 }
 /* #ed0606 */
 a {
@@ -276,7 +276,7 @@ h1, h2, h3, h4, h5, h6 {
 
 #hero:before {
   content: "";
-  background: #20212265;
+  background: #ffffff3a;
   position: absolute;
   bottom: 0;
   top: 0;
@@ -289,7 +289,7 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 72px;
   font-weight: 700;
   line-height: 56px;
-  color: #d6d7d8;
+  color: #45505b;
   text-shadow: 3px 3px 5px rgba(0, 0, 0, 0.3);
 }
 
@@ -1137,10 +1137,11 @@ section {
 # Footer
 --------------------------------------------------------------*/
 #footer {
-  background: #272727;
+  background: #f7f8f9;
   font-size: 14px;
   text-align: center;
   padding: 30px 0;
+  color: #45505b;
 }
 
 #footer h3 {
